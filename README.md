@@ -1,4 +1,4 @@
-# Profile Summary:
+# Professional Overview:
 I’m Sanath Suriya, a Data Science undergraduate passionate about building intelligent AI/ML systems and scalable data-driven applications. I enjoy working on Machine Learning, Agentic AI, backend AI workflows, IoT-integrated systems, and analytics platforms that solve real-world problems.<br><br>I have experience developing multi-agent AI systems, ML models, research intelligence platforms, and real-time API-integrated applications using Python and modern AI frameworks. My interests include research-oriented AI, intelligent automation, cybersecurity AI, IoT, scalable backend systems, and applied machine learning.<br><br>- AI/ML and intelligent systems<br>- Agentic AI and multi-agent workflows<br>- LLMs, RAG, and AI automation<br>- Scalable backend AI applications<br>- Cybersecurity and anomaly detection using ML<br>- Real-time AI workflows and API architectures<br>
 
 
