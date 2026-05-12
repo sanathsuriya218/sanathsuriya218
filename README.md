@@ -92,9 +92,9 @@
 *Got a problem worth solving? Let's talk data.*
 
 
-[![Gmail](https://img.shields.io/badge/Gmail-virennamo27%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanathsuriya.218@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-sanathsuriya.218%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanathsuriya.218@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viren%20Namo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanath-suriya-9028042b8)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanath%20Suriya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanath-suriya-9028042b8)
 
 
 ### 📄 Résumés
