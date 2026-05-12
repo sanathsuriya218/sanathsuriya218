@@ -1,18 +1,118 @@
-# Professional Overview:
-I’m Sanath Suriya, a Data Science undergraduate passionate about building intelligent AI/ML systems and scalable data-driven applications. I enjoy working on Machine Learning, Agentic AI, backend AI workflows, IoT-integrated systems, and analytics platforms that solve real-world problems.<br><br>I have experience developing multi-agent AI systems, ML models, research intelligence platforms, and real-time API-integrated applications using Python and modern AI frameworks. My interests include research-oriented AI, intelligent automation, cybersecurity AI, IoT, scalable backend systems, and applied machine learning.<br><br>- AI/ML and intelligent systems<br>- Agentic AI and multi-agent workflows<br>- LLMs, RAG, and AI automation<br>- Scalable backend AI applications<br>- Cybersecurity and anomaly detection using ML<br>- Real-time AI workflows and API architectures<br>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Viren;AI+%2F+ML+Engineer;Data+Scientist;Building+intelligent+systems" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=2000&color=A0AEC0&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+actionable+intelligence;Crafting+ML+pipelines+%7C+Recommendation+Systems+%7C+Time+Series" alt="Sub Typing SVG" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Why Data? Why AI/ML?
+
+</div>
+
+<br/>
+
+<div align="center">
+<pre>
+🌍  Every click, scroll, purchase, and pause — the world is quietly whispering data.
+     Most people hear noise. I hear patterns.
+</pre>
+</div>
+
+<br/>
+
+> **Data is the new oil** — but raw oil is useless until refined.
+> That's exactly what I do: refine chaos into clarity, and clarity into decisions.
+
+<br/>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+**🔍 Data Analyst**<br/>
+*"What happened?"*<br/>
+<sub>Digs through numbers,<br/>surfaces the story</sub>
+
+</td>
+<td align="center" width="33%">
+
+**🤖 ML Engineer**<br/>
+*"What will happen?"*<br/>
+<sub>Builds systems that<br/>learn and predict</sub>
+
+</td>
+<td align="center" width="33%">
+
+**🧬 Data Scientist**<br/>
+*"Why did it happen<br/>& what should we do?"*<br/>
+<sub>The bridge between<br/>insight and action</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+*I sit at the intersection of all three —*
+*part detective, part engineer, part storyteller.*
+
+**If your business runs on decisions, I help you make better ones. 🚀**
+
+</div>
+
+---
+
+<div align="center">
+
+## Tech Stack
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,fastapi,docker,git,github,postgres,sqlite,react,ts,vscode,jupyter,linux&perline=15" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 📬 Let's Connect
 
 
-## Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanathhh_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanath-suriya-9028042b8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanathsuriya.218@gmail.com) 
 
-# Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat&logo=apachespark&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat&logo=apachehive&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=flat&logo=greensock&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=flat&logo=apache-cassandra&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
-# GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sanathsuriya218&theme=omni&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=sanathsuriya218&theme=omni&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sanathsuriya218&theme=omni&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+*Got a problem worth solving? Let's talk data.*
 
-### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Gmail](https://img.shields.io/badge/Gmail-virennamo27%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:virennamo27@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viren%20Namo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viren-namo-052525274)
+
+
+### 📄 Résumés
+
+
+[![AI/ML Engineer Resume](https://img.shields.io/badge/Resume-AI%20%2F%20ML%20Engineer-6C63FF?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1DIDPKi6azJ0cNBWCf12XVuq9X-0hcxn3/view?usp=drive_link)
+[![Data Scientist Resume](https://img.shields.io/badge/Resume-Data%20Scientist-00C49A?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1H16uP3QzcNT5MbiwuyxQEKmOAUuA3Amz/view?usp=drive_link)
+
+<sub>Open to Data Analyst · AI/ML Engineer · Data Scientist roles</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📌 Featured Projects
+
+*GitHub renders my pinned repositories right below — feel free to explore.*
+
+</div>
