@@ -1,7 +1,10 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Sanath+%F0%9F%91%8B;AI+%2F+ML+Engineer;Data+Scientist;I+turn+messy+data+into+decisions" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=2000&color=A0AEC0&center=true&vCenter=true&width=600&lines=ML+Pipelines+%7C+Recommendation+Systems+%7C+Time+Series+%7C+LLMs" alt="Sub Typing SVG" />
+# Hey, I'm Sanath 👋
+
+**AI / ML Engineer · Data Scientist · Building intelligent systems**
+
+<sub>ML Pipelines · Recommendation Systems · Time Series · LLMs</sub>
 
 </div>
 
