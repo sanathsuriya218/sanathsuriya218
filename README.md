@@ -80,9 +80,9 @@
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanath%20Suriya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanath-suriya-9028042b8)
 
-### 📄 Résumés
+### 📄 Résumé
 
-[![AI/ML Engineer Resume](https://img.shields.io/badge/Resume-AI%20%2F%20ML%20Engineer-6C63FF?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1ohnk3sDn6InQEVyZ0-JYDVsFqVl7CZuw/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/Resume-AI%20%2F%20ML%20Engineer-6C63FF?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1x1qe1vT6zU_UM8QeRRzrlaseM1hNC-dd/view?usp=drive_link)
 
 <sub>Open to Data Analyst · AI/ML Engineer · Data Scientist roles</sub>
 
